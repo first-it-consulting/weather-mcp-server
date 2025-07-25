@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides weather information using the WeatherAPI service. This server enables AI assistants to fetch current weather, forecasts, and search for locations through stdio communication.
 
+<a href="https://glama.ai/mcp/servers/@first-it-consulting/weather-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@first-it-consulting/weather-mcp-server/badge" alt="Weather Server MCP server" />
+</a>
+
 ## Features
 
 - **Current Weather**: Get real-time weather conditions for any location
